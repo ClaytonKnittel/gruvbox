@@ -1400,6 +1400,11 @@ hi! link jsonBraces GruvboxFg1
 hi! link jsonString GruvboxFg1
 
 " }}}
+" metal: {{{
+
+hi! link metalBuiltinFns GruvboxBlueBold
+
+" }}}
 
 
 " Functions -------------------------------------------------------------------
